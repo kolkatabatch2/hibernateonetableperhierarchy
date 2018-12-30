@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/Diptish/Desktop/HIBERNATE/mysql-connector-java-5.1.24-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diptish/Desktop/HIBERNATE/hibjars3.5/hibjars3.5/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diptish/Desktop/HIBERNATE/hibjars3.5/hibjars3.5/commons-collections-3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diptish/Desktop/HIBERNATE/hibjars3.5/hibjars3.5/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diptish/Desktop/HIBERNATE/hibjars3.5/hibjars3.5/hibernate3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diptish/Desktop/HIBERNATE/hibjars3.5/hibjars3.5/hibernate-jpa-2.0-api-1.0.0.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diptish/Desktop/HIBERNATE/hibjars3.5/hibjars3.5/hsqldb.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diptish/Desktop/HIBERNATE/hibjars3.5/hibjars3.5/javassist-3.9.0.GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diptish/Desktop/HIBERNATE/hibjars3.5/hibjars3.5/jta-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diptish/Desktop/HIBERNATE/hibjars3.5/hibjars3.5/log4j-1.2.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diptish/Desktop/HIBERNATE/hibjars3.5/hibjars3.5/slf4j-api-1.6.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Diptish/Desktop/HIBERNATE/hibjars3.5/hibjars3.5/slf4j-log4j12-1.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
